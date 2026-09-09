@@ -5,7 +5,7 @@ Hi , I'm Luis Santiago !
  Studied [Computer Graphics and Imaging] at Lehman College <br/>
 I am a Full Stack Developer living in New York City 
 my practices include creating Computer Graphics in Blender3D  and practicing web development 
-my goal is to achieve total mastery of the web tech stack 
+my goal is to achieve total mastery of the web tech stack including A.I agents
 
 
 
